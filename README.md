@@ -13,7 +13,9 @@
 <p>
   <img alt="C #" src="https://img.shields.io/badge/-C Sharp-darkgreen?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="Dot Net Core" src="https://img.shields.io/badge/-Dot Net Core-purple?style=flat-square&logo=dotnet&logoColor=white" />
-   <img alt="SQL" src="https://img.shields.io/badge/-SQL-1a73e8?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-1a73e8?style=flat-square&logo=visual-studio&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-grey?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-Vs%20Code-1a73e8?style=flat-square&logo=visual-studio-code&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
