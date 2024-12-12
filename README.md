@@ -1,8 +1,8 @@
-👋 Hi, I’m Prasob Kumar KP
-🔹 Full-Stack Developer with 11+ years of experience in building robust and scalable applications.
-🔹 Skilled in .NET 8, React.js, Web APIs, and Cloud technologies.
+- 👋 Hi, I’m Prasob Kumar KP
+- 🔹 Full-Stack Developer with 11+ years of experience in building robust and scalable applications.
+- 🔹 Skilled in .NET 8, React.js, Web APIs, and Cloud technologies.
 
-🌟 Passionate about creating modern, efficient solutions by combining clean architecture, strong design principles, and cutting-edge frameworks.
+- 🌟 Passionate about creating modern, efficient solutions by combining clean architecture, strong design principles, and cutting-edge frameworks.
 💡 Exploring advanced concepts like AOT compilation and OpenTelemetry to enhance performance and observability.
 🚀 Adept at collaborating in microservices environments, optimizing workflows, and improving team productivity.
 
