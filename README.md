@@ -1,21 +1,33 @@
-👋 Hi, I’m Prasob Kumar KP.  
-🔹 Full-Stack Developer with 11+ years of experience in building robust and scalable applications.   
-🔹 Skilled in .NET 8, React.js, Web APIs, and Cloud technologies.
+👋 Hi, I’m **Prasob Kumar KP**  
 
-🌟 Passionate about creating modern, efficient solutions by combining clean architecture, strong design principles, and cutting-edge frameworks. 
-💡 Exploring advanced concepts like AOT compilation and OpenTelemetry to enhance performance and observability. 
-🚀 Adept at collaborating in microservices environments, optimizing workflows, and improving team productivity. 
+🔹 **Senior Software Engineer** with 11+ years of experience in building scalable and efficient software solutions.  
+🔹 Proficient in **.NET 8**, **React.js**, **Web APIs**, **Entity Framework**, and **Cloud technologies**.  
 
-Highlights of my work: 
-✅ Developed clean, scalable solutions following Ardalis Clean Architecture. 
-✅ Built responsive, user-friendly PWAs with React.js and Bootstrap CSS. 
-✅ Designed seamless Google Play subscription integrations in Android apps. 
-✅ Contributed to tools like a Visual Studio extension for WebAPI project automation. 
+🌟 I’m passionate about:  
+- Crafting clean, scalable, and modern applications.  
+- Exploring cutting-edge tools like **OpenTelemetry**, **AOT compilation**, and microservices architecture.  
+- Advocating for best practices in code quality, performance optimization, and team collaboration.  
 
-📌 Currently enhancing my personal portfolio with the latest UI trends and interactive React animations. 
+💻 **Professional Highlights:**  
+- Improved system performance by 200% and reduced infrastructure costs by 60% through innovative architecture at **Pluralsight**.  
+- Delivered real-time communication and scalable solutions using **SignalR** and **Azure AD** at **Crestron Electronics**.  
+- Streamlined complex payment integrations and enhanced application performance at **EF Education First**.  
+- Designed IoT-based systems for vehicle tracking and geofencing at **mnksoftware**.  
 
-💼 Connect with me on LinkedIn 
-🌐 Check out my projects and more at prasobkumarkp.com 
+🚀 **Key Contributions:**  
+- Implemented OAuth-based authentication and authorization.  
+- Enhanced React apps for scalability and performance.  
+- Migrated legacy systems to modern **.NET Core** and **React.js** platforms.  
+- Built CI/CD pipelines for faster and reliable deployments.  
+- Leveraged **Redis**, **Elasticsearch**, and cloud solutions to optimize performance.  
+
+📌 Currently enhancing my portfolio with the latest **UI trends** and **interactive animations** in **React.js**.  
+
+📫 Let’s connect:  
+- 🌐 Portfolio: [prasobkumarkp.com](https://prasobkumarkp.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/prasobkumarkp/)  
+
+🌟 **Let’s build something amazing together!**  
 
 
 <h3>⚡Things I code with</h3>
