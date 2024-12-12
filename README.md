@@ -2,20 +2,20 @@
 🔹 Full-Stack Developer with 11+ years of experience in building robust and scalable applications.   
 🔹 Skilled in .NET 8, React.js, Web APIs, and Cloud technologies.
 
-🌟 Passionate about creating modern, efficient solutions by combining clean architecture, strong design principles, and cutting-edge frameworks.
-💡 Exploring advanced concepts like AOT compilation and OpenTelemetry to enhance performance and observability.
-🚀 Adept at collaborating in microservices environments, optimizing workflows, and improving team productivity.
+🌟 Passionate about creating modern, efficient solutions by combining clean architecture, strong design principles, and cutting-edge frameworks. 
+💡 Exploring advanced concepts like AOT compilation and OpenTelemetry to enhance performance and observability. 
+🚀 Adept at collaborating in microservices environments, optimizing workflows, and improving team productivity. 
 
-Highlights of my work:
-✅ Developed clean, scalable solutions following Ardalis Clean Architecture.
-✅ Built responsive, user-friendly PWAs with React.js and Bootstrap CSS.
-✅ Designed seamless Google Play subscription integrations in Android apps.
-✅ Contributed to tools like a Visual Studio extension for WebAPI project automation.
+Highlights of my work: 
+✅ Developed clean, scalable solutions following Ardalis Clean Architecture. 
+✅ Built responsive, user-friendly PWAs with React.js and Bootstrap CSS. 
+✅ Designed seamless Google Play subscription integrations in Android apps. 
+✅ Contributed to tools like a Visual Studio extension for WebAPI project automation. 
 
-📌 Currently enhancing my personal portfolio with the latest UI trends and interactive React animations.
+📌 Currently enhancing my personal portfolio with the latest UI trends and interactive React animations. 
 
-💼 Connect with me on LinkedIn
-🌐 Check out my projects and more at prasobkumarkp.com
+💼 Connect with me on LinkedIn 
+🌐 Check out my projects and more at prasobkumarkp.com 
 
 
 <h3>⚡Things I code with</h3>
